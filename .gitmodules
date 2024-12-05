@@ -1,3 +1,4 @@
 [submodule "pyright"]
 	path = pyright
-	url = https://github.com/malusamayo/pyright
+	url = https://github.com/Nat2194/pyright
+	branch = main
